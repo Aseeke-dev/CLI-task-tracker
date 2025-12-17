@@ -71,6 +71,9 @@ Feel free to open issues or submit PRs. Suggestions:
 - Add flag-style CLI parsing (argparse / click)
 - Add export/import (CSV/JSON)
 
+## Project URL
+
+https://github.com/Aseeke-dev/CLI-task-tracker.git
 ## License
 
 MIT-style (add your preferred license text).
