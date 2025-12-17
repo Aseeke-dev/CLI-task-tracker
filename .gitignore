@@ -1,0 +1,13 @@
+## Ignore batch files
+*.bat
+
+## Ignore JSON data files
+*.json
+
+## Ignore Python bytecode cache directories entirely
+__pycache__/
+**/__pycache__/
+
+## Optionally ignore compiled Python files
+*.py[cod]
+
