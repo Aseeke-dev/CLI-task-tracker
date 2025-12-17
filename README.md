@@ -73,7 +73,7 @@ Feel free to open issues or submit PRs. Suggestions:
 
 ## Project URL
 
-https://github.com/Aseeke-dev/CLI-task-tracker.git
+https://github.com/Aseeke-dev/CLI-task-tracker
 ## License
 
 MIT-style (add your preferred license text).
